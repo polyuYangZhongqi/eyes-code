@@ -1,3 +1,2 @@
-# hellotest
-a test
-and then this branch is to test how to commit some changes to master branch
+# pro
+the code for diagoseing near-sighted automatically
